@@ -1,0 +1,25 @@
+1. time: 10
+2. organization:
+    a. organised into multiple functions: yes
+    b. does each funciton in your program perform just one task: yes
+3. progress: did you complete a significant part of your program: yes
+4.Description
+    a. populate_main_window, play_song, add_songs, pause_song, next_song, prev_song, resume_song, update_curr_song_name, trim_song_name
+    b. test_trim_song_name
+    c.  -https://www.tutorialspoint.com/python/tk_button.htm
+        -https://docs.python.org/3/library/tk.html
+        -https://data-flair.training/blogs/python-mp3-player/
+        -https://dribbble.com/shots/15364137-Playme-Podcasts-App
+        -http://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html
+        -https://www.tutorialspoint.com/python/tk_frame.htm
+        -https://www.geeksforgeeks.org/get-directory-of-current-python-script/
+        -https://stackoverflow.com/questions/45184462/how-do-i-change-my-cursor-to-a-hand-only-when-it-is-hovering-over-a-label
+        -https://stackoverflow.com/questions/16424091/why-does-tkinter-image-not-show-up-if-created-in-a-function
+        -https://stackoverflow.com/questions/6554805/getting-a-callback-when-a-tkinter-listbox-selection-is-changed
+    d.  -Completed the Graphical User interface build. 
+        -Created the main window. 
+        -Created, styled and positioned all the widgets onto the main window
+        -Wrote functions for manipulating the audio files (play, pause, next, prev, etc) 
+        -Bound the functions to the relevant widgets
+        -wrote a test program to test the music player functions
+
